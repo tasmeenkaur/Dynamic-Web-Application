@@ -1,10 +1,5 @@
 # WEB DATA MANAGEMENT - PROJECT PHASE 2
 
-TASMEEN KAUR
-------------
-------------
-STUDENT ID:1001150823
-----------------------
 a.What sql framework did you choose and why?
 
 I chose Mysql for its simplicity. As according to project requirements we had to load large data to database, Mysql is a fast sql framework to load large amount of data. Also, it has security features which can help protect the data. It is being used by popular websites such as wikipedia. To store large amounts of data it provides a facility to store it in main memory tables which have high speed. Also it has cache that stores the queries which are frequently used with their respective results.
