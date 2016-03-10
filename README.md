@@ -1,4 +1,6 @@
-# WEB DATA MANAGEMENT - PROJECT PHASE 2
+# Dynamic Web Application (MySQL, MongoDB, Ruby on Rails)
+
+Data was loaded to MySQL and MongoDB using scripts and queries where fired to compare both databases.
 
 a.What sql framework did you choose and why?
 
@@ -16,15 +18,7 @@ d. What aspect of the implementation did you find easy, if any, and why?
 
 It was easy to load data in Mongodb as it is schemaless we need not provide any schema. 
 
-e. What aspect of the implementation did you find hard, if any, and why?
-
-It was difficult to write queries with mongodb.
-
-f. What components OTHER than your client and server framework did you install, if any, and if so, what is their purpose for your solution?
-
-I did not install any other component.
-
-g. What Ubuntu commands are required to deploy and run your server?
+e. What Ubuntu commands are required to deploy and run your server?
 
 1.unzip tkk0823-project-phase2.zip
 
